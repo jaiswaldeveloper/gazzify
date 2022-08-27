@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="53px" viewBox="0 0 53 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Carrycart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="16" y="48" width="19" height="11"></rect>
+        <rect id="path-2" x="16" y="39" width="19" height="11"></rect>
+        <rect id="path-3" x="16" y="30" width="19" height="11"></rect>
+    </defs>
+    <g id="01---Support-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02---Select-a-product" transform="translate(-984.000000, -324.000000)">
+            <g id="Group-13" transform="translate(970.000000, 311.000000)">
+                <g id="Carrycart" transform="translate(1.000000, 2.000000)">
+                    <rect id="Rectangle-6-Copy-3" x="0" y="0" width="80" height="77"></rect>
+                    <path d="M50.7509469,50.9320551 L57,15 L64.3508726,12.4590262 M14,61 L39.581517,61 C39.2065071,60.0735686 39,59.0609004 39,58 C39,53.581722 42.581722,50 47,50 C48.3554728,50 49.6322102,50.3371067 50.7509469,50.9320551" id="Rectangle-1507" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval-1389" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="47" cy="58" r="5"></circle>
+                    <g id="Rectangle-1507">
+                        <use fill-opacity="0.2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#FFFFFF" stroke-width="2" x="17" y="49" width="17" height="9"></rect>
+                    </g>
+                    <g id="Rectangle-1507">
+                        <use fill-opacity="0.2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#FFFFFF" stroke-width="2" x="17" y="40" width="17" height="9"></rect>
+                    </g>
+                    <g id="Rectangle-1507">
+                        <use fill-opacity="0.2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#FFFFFF" stroke-width="2" x="17" y="31" width="17" height="9"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

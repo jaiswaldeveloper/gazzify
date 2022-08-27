@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="55px" viewBox="0 0 44 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Crosspin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01---Support-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02---Select-a-product" transform="translate(-248.000000, -324.000000)">
+            <g id="Crosspin" transform="translate(230.000000, 313.000000)">
+                <rect id="Rectangle-6" x="0" y="0" width="80" height="77"></rect>
+                <path d="M40,54 C40,54 24,36.836556 24,28 C24,19.163444 31.163444,12 40,12 C48.836556,12 56,19.163444 56,28 C56,36.836556 40,54 40,54 Z M40,30 C42.7614237,30 45,27.7614237 45,25 C45,22.2385763 42.7614237,20 40,20 C37.2385763,20 35,22.2385763 35,25 C35,27.7614237 37.2385763,30 40,30 Z" id="Oval-1464" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.9862972,54.8183035 L18.9246323,48.2722434" id="Path-3753" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.9862972,65 L18.9246323,58.4539399" id="Path-3753" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(27.455465, 61.726970) scale(-1, 1) translate(-27.455465, -61.726970) "></path>
+                <path d="M60.9862972,54.8183035 L43.9246323,48.2722434" id="Path-3753" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(52.455465, 51.545273) scale(-1, 1) translate(-52.455465, -51.545273) "></path>
+                <path d="M60.9862972,65 L43.9246323,58.4539399" id="Path-3753" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
